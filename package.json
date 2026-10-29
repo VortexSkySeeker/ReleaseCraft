@@ -1,0 +1,21 @@
+{
+  "name": "@github-project/release-craft",
+  "version": "1.0.0",
+  "description": "Semantic version calculator and bilingual changelog generator",
+  "type": "module",
+  "main": "src/index.ts",
+  "bin": {
+    "release-craft": "./src/index.ts"
+  },
+  "scripts": {
+    "start": "npx tsx src/index.ts",
+    "ci": "npx tsx src/index.ts --ci"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
