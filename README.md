@@ -1,4 +1,4 @@
-# 02. ReleaseCraft — Генератор семантических версий (SemVer) и двуязычных Changelog / Automated Semantic Versioning & Bilingual Changelog Generator
+# ReleaseCraft — Генератор семантических версий (SemVer) и двуязычных Changelog / Automated Semantic Versioning & Bilingual Changelog Generator
 
 ![ReleaseCraft Banner](./assets/banner.svg)
 
